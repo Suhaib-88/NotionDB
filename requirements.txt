@@ -1,0 +1,6 @@
+langchain==0.0.170
+tiktoken
+streamlit
+streamlit-chat
+faiss-cpu
+cohere
